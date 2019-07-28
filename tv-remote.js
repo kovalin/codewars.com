@@ -3,6 +3,14 @@ Kata url: https://www.codewars.com/kata/tv-remote-shift-and-space/javascript
 
 Task: How many button presses on my remote are required to type the given words?
 
+a b c d e 1 2 3
+f g h i j 4 5 6
+k l m n o 7 8 9
+p q r s t . @ 0
+u v w x y z _ /
+aA SP ? ? ? ? ? ?           
+
+
 Notes
 The cursor always starts on the letter a (top left)
 
